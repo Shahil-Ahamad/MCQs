@@ -350,4 +350,214 @@
 - d) A location on a map
 **Answer:** a
 
+## 51. Which of the following HTML elements is used to create a definition list?
+- a) `<ol>, <ul>, <li>`
+- b) `<dl>, <dt>, <dd>`
+- c) `<dl>, <ul>, <li>`
+- d) `<list>, <dt>, <dd>`
+**Answer:** b
+
+## 52. What is the purpose of the `autofocus` attribute in HTML?
+- a) It sets the focus on the first form field when the page loads.
+- b) It validates the input automatically.
+- c) It submits the form automatically.
+- d) It prevents the form from being submitted.
+**Answer:** a
+
+## 53. What is the correct HTML tag for playing audio files?
+- a) `<music>`
+- b) `<sound>`
+- c) `<audio>`
+- d) `<mp3>`
+**Answer:** c
+
+## 54. Which attribute can be used to specify an alternative text for an image, if the image cannot be displayed?
+- a) `alt`
+- b) `src`
+- c) `href`
+- d) `title`
+**Answer:** a
+
+## 55. What does the `autocomplete` attribute do in an HTML form?
+- a) It automatically submits the form.
+- b) It suggests previously entered values for the input field.
+- c) It completes the form fields automatically when the page loads.
+- d) It validates the form on submit.
+**Answer:** b
+
+## 56. What is the correct syntax for embedding a YouTube video in HTML?
+- a) `<video src="youtube.com/..."></video>`
+- b) `<iframe src="https://www.youtube.com/embed/..."></iframe>`
+- c) `<embed video="youtube.com/...">`
+- d) `<video link="youtube.com/..."></video>`
+**Answer:** b
+
+## 57. How do you specify the relationship between a linked document and the current document in HTML?
+- a) Using the `rel` attribute in `<a>` or `<link>` tags
+- b) Using the `ref` attribute in `<a>` tags
+- c) Using the `relationship` attribute in `<link>` tags
+- d) Using the `href` attribute in `<a>` tags
+**Answer:** a
+
+## 58. What does the `download` attribute do in an HTML anchor (`<a>`) tag?
+- a) It forces the linked document to be downloaded when clicked.
+- b) It opens the linked document in a new tab.
+- c) It saves the link as a favorite.
+- d) It sends a download request to the server.
+**Answer:** a
+
+## 59. What is the purpose of the `<bdi>` tag in HTML?
+- a) It isolates a part of text that might be formatted in a different direction than other text.
+- b) It bolds the text.
+- c) It displays bi-directional content.
+- d) It creates a block of directional inline content.
+**Answer:** a
+
+## 60. Which HTML attribute is used to define the URL of a linked document?
+- a) `href`
+- b) `src`
+- c) `url`
+- d) `link`
+**Answer:** a
+
+## 61. What is the purpose of the `<mark>` tag in HTML?
+- a) It highlights text.
+- b) It marks a hyperlink.
+- c) It creates an anchor.
+- d) It makes text bold.
+**Answer:** a
+
+## 62. Which HTML tag is used to define a client-side script in HTML5?
+- a) `<code>`
+- b) `<script>`
+- c) `<client>`
+- d) `<program>`
+**Answer:** b
+
+## 63. What does the `action` attribute in an HTML form tag specify?
+- a) The URL where the form data should be submitted.
+- b) The HTTP method to submit the form data.
+- c) The script to run when the form is submitted.
+- d) The type of form being used.
+**Answer:** a
+
+## 64. What does the `pattern` attribute in an HTML input tag do?
+- a) It specifies a regular expression that the input value must match for validation.
+- b) It defines a specific format for displaying text.
+- c) It automatically formats the input data.
+- d) It checks for spelling errors in the input field.
+**Answer:** a
+
+## 65. Which HTML attribute is used to disable an input field?
+- a) `disable`
+- b) `disabled`
+- c) `readonly`
+- d) `inactive`
+**Answer:** b
+
+## 66. Which element is used to define important text in HTML?
+- a) `<important>`
+- b) `<b>`
+- c) `<strong>`
+- d) `<highlight>`
+**Answer:** c
+
+## 67. How do you specify that an option in a dropdown list is disabled in HTML?
+- a) `disabled` attribute in `<option>`
+- b) `readonly` attribute in `<option>`
+- c) `disable` attribute in `<option>`
+- d) `disabled` attribute in `<select>`
+**Answer:** a
+
+## 68. Which HTML element defines navigation links?
+- a) `<nav>`
+- b) `<links>`
+- c) `<navigate>`
+- d) `<navigation>`
+**Answer:** a
+
+## 69. What does the `<pre>` tag in HTML do?
+- a) It preserves both spaces and line breaks.
+- b) It displays text in bold.
+- c) It formats text as code.
+- d) It prevents line breaks in the text.
+**Answer:** a
+
+## 70. Which HTML element is used to define a section that is quoted from another source?
+- a) `<q>`
+- b) `<blockquote>`
+- c) `<quote>`
+- d) `<cite>`
+**Answer:** b
+
+## 71. What does the `<datalist>` tag in HTML do?
+- a) It provides a list of pre-defined options for an input field.
+- b) It defines a list of data to display on the page.
+- c) It creates a dropdown list.
+- d) It connects a form input to a database.
+**Answer:** a
+
+## 72. Which attribute is used to specify the maximum length of an input field in HTML?
+- a) `maxlength`
+- b) `limit`
+- c) `maxinput`
+- d) `length`
+**Answer:** a
+
+## 73. Which element defines the title of a work in HTML?
+- a) `<title>`
+- b) `<caption>`
+- c) `<cite>`
+- d) `<blockquote>`
+**Answer:** c
+
+## 74. Which of the following is a self-closing tag in HTML5?
+- a) `<br>`
+- b) `<div>`
+- c) `<p>`
+- d) `<section>`
+**Answer:** a
+
+## 75. How do you specify a language attribute for the HTML document?
+- a) `<html lang="en">`
+- b) `<meta language="en">`
+- c) `<header lang="en">`
+- d) `<body lang="en">`
+**Answer:** a
+
+## 76. Which tag is used to define a table header?
+- a) `<thead>`
+- b) `<th>`
+- c) `<header>`
+- d) `<tr>`
+**Answer:** b
+
+## 77. How do you specify a video file that can be played directly in HTML5?
+- a) `<video src="movie.mp4"></video>`
+- b) `<source src="movie.mp4">`
+- c) `<embed src="movie.mp4"></embed>`
+- d) `<link video="movie.mp4">`
+**Answer:** a
+
+## 78. What does the `spellcheck` attribute do in HTML?
+- a) It checks for spelling errors in the input field.
+- b) It checks for grammar errors in the input field.
+- c) It underlines text that contains spelling errors.
+- d) It automatically corrects spelling mistakes in the input field.
+**Answer:** a
+
+## 79. What is the purpose of the `<meta>` tag in HTML?
+- a) It provides metadata about the HTML document.
+- b) It creates a table header.
+- c) It displays multimedia.
+- d) It creates a paragraph.
+**Answer:** a
+
+## 80. What is the purpose of the `defer` attribute in the `<script>` tag?
+- a) It delays the execution of the script until the HTML document is fully parsed.
+- b) It prevents the script from loading.
+- c) It immediately executes the script.
+- d) It loads the script in the background.
+**Answer:** a
+
 ---
