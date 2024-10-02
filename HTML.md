@@ -560,4 +560,144 @@
 - d) It loads the script in the background.
 **Answer:** a
 
+## 81. What is the correct HTML element for inserting a line break?
+- a) `<br>`
+- b) `<lb>`
+- c) `<break>`
+- d) `<line>`
+**Answer:** a
+
+## 82. Which of the following HTML attributes is used to specify that an input field must be filled out before submitting a form?
+- a) `required`
+- b) `validate`
+- c) `mandatory`
+- d) `fill`
+**Answer:** a
+
+## 83. Which HTML element is used to specify a footer for a document or section?
+- a) `<footer>`
+- b) `<bottom>`
+- c) `<section-footer>`
+- d) `<foot>`
+**Answer:** a
+
+## 84. What does the `<time>` tag in HTML define?
+- a) A date or time
+- b) A countdown
+- c) A stopwatch
+- d) The current time of the user’s system
+**Answer:** a
+
+## 85. In HTML, which attribute is used with the `<input>` tag to allow multiple file uploads?
+- a) `multiple`
+- b) `files`
+- c) `multi-upload`
+- d) `multiselect`
+**Answer:** a
+
+## 86. Which HTML tag is used to define a container for an external application or interactive content?
+- a) `<embed>`
+- b) `<object>`
+- c) `<iframe>`
+- d) All of the above
+**Answer:** d
+
+## 87. What is the purpose of the `target="_blank"` attribute in an anchor tag?
+- a) It opens the link in a new tab or window.
+- b) It submits the form in a new tab.
+- c) It reloads the current page.
+- d) It opens the link in the same window.
+**Answer:** a
+
+## 88. Which HTML tag is used to display a scalar measurement within a known range?
+- a) `<meter>`
+- b) `<progress>`
+- c) `<gauge>`
+- d) `<input type="range">`
+**Answer:** a
+
+## 89. What is the purpose of the `sandbox` attribute in an `<iframe>`?
+- a) It provides extra restrictions on the content in the iframe.
+- b) It disables the iframe.
+- c) It makes the iframe editable.
+- d) It enables fullscreen mode for the iframe.
+**Answer:** a
+
+## 90. Which HTML element is used to create a multi-line text input field?
+- a) `<textarea>`
+- b) `<input type="text">`
+- c) `<textbox>`
+- d) `<multi-line>`
+**Answer:** a
+
+## 91. How can you specify that an input field should be of type "password"?
+- a) `<input type="password">`
+- b) `<input type="secret">`
+- c) `<input type="pass">`
+- d) `<input type="text" password>`
+**Answer:** a
+
+## 92. What does the `novalidate` attribute do in an HTML form?
+- a) It prevents the form from being validated when submitted.
+- b) It disables all form inputs.
+- c) It hides the form.
+- d) It triggers validation when the form is submitted.
+**Answer:** a
+
+## 93. Which HTML attribute can be used to change the default behavior of form submission?
+- a) `method`
+- b) `action`
+- c) `submit`
+- d) `target`
+**Answer:** b
+
+## 94. What is the use of the `<fieldset>` element in HTML?
+- a) To group related elements in a form.
+- b) To create a border around the form.
+- c) To group radio buttons together.
+- d) To reset all form fields.
+**Answer:** a
+
+## 95. Which HTML attribute specifies the number of visible rows in a `<textarea>`?
+- a) `rows`
+- b) `cols`
+- c) `height`
+- d) `visible`
+**Answer:** a
+
+## 96. Which element is used to define emphasized text in HTML?
+- a) `<em>`
+- b) `<strong>`
+- c) `<i>`
+- d) `<b>`
+**Answer:** a
+
+## 97. How do you specify the character encoding for an HTML document?
+- a) `<meta charset="UTF-8">`
+- b) `<encoding charset="UTF-8">`
+- c) `<html encoding="UTF-8">`
+- d) `<body charset="UTF-8">`
+**Answer:** a
+
+## 98. Which HTML element is used to embed a JavaScript file?
+- a) `<script>`
+- b) `<embed>`
+- c) `<link>`
+- d) `<src>`
+**Answer:** a
+
+## 99. Which attribute can be used with the `<form>` tag to send form data without reloading the page?
+- a) `target="_blank"`
+- b) `method="ajax"`
+- c) `data-async`
+- d) `onsubmit="return false"`
+**Answer:** d
+
+## 100. Which HTML tag is used to define the largest heading?
+- a) `<h1>`
+- b) `<heading>`
+- c) `<h6>`
+- d) `<title>`
+**Answer:** a
+
 ---
