@@ -60,8 +60,10 @@ Follow these steps to set up the project:
    Create a `.env` file in the root directory and define your environment variables. An example `.env` file might look like this:
 
    ```env
-   PORT=3000
-   JWT_SECRET=your_jwt_secret
+NODE_ENV=development
+PORT=4000
+Database_URI = 
+JWT_SECRET=random_secret_value
    ```
 
    Be sure to replace `your_jwt_secret` with a secret key for signing JWTs.
