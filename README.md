@@ -1,4 +1,3 @@
-Sure! Here's the entire documentation in `.md` format that other developers can read on GitHub. You can copy this content directly into your `README.md` file:
 
 ```markdown
 # Backend Project
