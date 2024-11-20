@@ -99,24 +99,6 @@ This will compile your TypeScript files and then start the application.
 
 ---
 
-## Folder Structure
-
-Here's the structure of the project:
-
-```
-backend/
-├── src/               # TypeScript source files
-│   ├── main.ts        # Entry point for the application
-│   ├── routes/        # Define API routes here
-│   ├── controllers/   # Logic for handling route requests
-│   ├── middlewares/   # Express middleware functions
-│   ├── utils/         # Helper functions and utilities
-│   └── config/        # Configuration settings, e.g., environment variables
-├── dist/              # Compiled JavaScript files (generated after build)
-├── package.json       # Project dependencies and scripts
-├── tsconfig.json      # TypeScript configuration file
-└── .env               # Environment variables (not committed to source control)
-```
 
 ---
 
