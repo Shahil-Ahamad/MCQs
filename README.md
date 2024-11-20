@@ -1,5 +1,3 @@
-
-```markdown
 # Backend Project
 
 This project serves as the backend for your application, built with Node.js, Express, and TypeScript. It supports authentication, secure password hashing, and data validation.
