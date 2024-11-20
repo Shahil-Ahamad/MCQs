@@ -11,8 +11,7 @@ This project serves as the backend for your application, built with Node.js, Exp
 - [Scripts](#scripts)
 - [Folder Structure](#folder-structure)
 - [Technologies Used](#technologies-used)
-- [License](#license)
-- [Author](#author)
+
 
 ---
 
