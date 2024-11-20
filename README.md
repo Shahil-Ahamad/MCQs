@@ -97,11 +97,6 @@ npm start
 
 This will compile your TypeScript files and then start the application.
 
----
-
-
----
-
 ## Technologies Used
 
 This project uses the following technologies:
